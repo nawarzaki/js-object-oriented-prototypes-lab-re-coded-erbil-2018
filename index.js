@@ -20,3 +20,7 @@ function BoardMember(name, homeState, training){
   BoardMember.prototype.sayHi = function(){
    return `Hi, my name is ${this.name}. I am from ${this.homeState}, and I was trained in ${this.training}.`
  }
+<<<<<<< HEAD
+=======
+
+>>>>>>> effd8624faedfb64bfe6a6b6157333edc912df41
